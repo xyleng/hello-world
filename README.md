@@ -1,4 +1,7 @@
 # hello-world
-trial repository
 
-hi there. i am writing thin sentence in this trial README file
+
+hi there. i am writing this sentence in this trial README file
+
+i am adding another sentence to this README file.
+
